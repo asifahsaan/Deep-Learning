@@ -1,54 +1,39 @@
-# Deep-Learning
-
-# Deep Learning Project
+# Deep Learning Repository
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models](#models)
-- [Datasets](#datasets)
-- [Results](#results)
+- [Getting Started](#getting-started)
+- [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Description
-Welcome to the Deep Learning Project repository! This project is focused on developing and implementing deep learning models for various computer vision and natural language processing tasks. The goal is to create state-of-the-art models that can be used in various applications, from image classification to text generation.
+Welcome to the Deep Learning Repository! This repository aims to provide a comprehensive and beginner-friendly collection of resources and tutorials for learning about Deep Learning. Whether you are new to the field or looking to expand your knowledge, you will find a variety of materials to help you get started.
 
-## Features
-- Easy-to-use deep learning models
-- Pretrained models available for quick evaluation
-- Extensive documentation and usage examples
-- Integration with popular deep learning frameworks
-- Active community and ongoing development
+## Getting Started
+If you're new to Deep Learning, follow these steps to get started:
 
-## Installation
-1. Clone this repository to your local machine using `git clone https://github.com/asifahsaan/deep-learning-project.git`
-2. Install the required dependencies using `pip install -r requirements.txt`
+1. **Prerequisites**: Familiarize yourself with Python, Linear Algebra, and Calculus.
+2. **Setup**: Install the necessary libraries like TensorFlow, Keras, PyTorch, etc.
+3. **Tutorials**: Explore the [Tutorials](tutorials/) directory to find step-by-step guides for building and training basic neural networks.
 
-## Usage
-To use the pre-trained models and examples, follow the instructions in the [Usage Guide](docs/USAGE.md). You can easily integrate the models into your own projects and perform various tasks such as image classification, object detection, text generation, etc.
-
-## Models
-This repository currently includes the following pre-trained models:
-- [Model 1](models/model1/README.md): A deep learning model for image classification.
-- [Model 2](models/model2/README.md): A recurrent neural network for text generation.
-
-## Datasets
-To run the pre-trained models, you will need to download the relevant datasets. Follow the instructions in the [Datasets Guide](docs/DATASETS.md) to acquire and prepare the required data.
-
-## Results
-We have achieved state-of-the-art performance on various benchmark datasets. Check out our [Results Page](docs/RESULTS.md) for detailed evaluation metrics and comparison with other models.
+## Learning Resources
+- [Books](resources/books.md): A curated list of recommended books on Deep Learning.
+- [Courses](resources/courses.md): A collection of online courses and video lectures from reputable platforms.
+- [Papers](resources/papers.md): A compilation of influential research papers in the field.
+- [Blogs](resources/blogs.md): Blogs and articles that provide insights and explanations of various Deep Learning concepts.
+- [Videos](resources/videos.md): Educational videos and tutorials on Deep Learning topics.
 
 ## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information on how to get involved.
+Contributions are encouraged and appreciated! If you have any resources, tutorials, or knowledge to share, feel free to contribute to the repository. You can contribute by adding new tutorials, improving existing content, fixing typos, or suggesting new learning resources.
+
+To contribute, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-We would like to thank all contributors and the open-source community for their valuable feedback and support.
+We would like to express our gratitude to the Deep Learning community for their valuable contributions and making this repository possible.
